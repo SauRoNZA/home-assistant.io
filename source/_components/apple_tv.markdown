@@ -21,6 +21,10 @@ There is currently support for the following device types within Home Assistant:
 - [Remote](#remote)
 
 <div class='note'>
+This component is no longer functional in the Beta version of tvOS13 due to changes by Apple in Home Sharing. It's unlikely to change by final release so if you really need to use this function best to remain on tvOS12 for the time being.
+</div>
+
+<div class='note'>
 Currently, you must have Home Sharing enabled for this to work. Support for pairing Home Assistant with your device will be supported in a later release.
 </div>
 
