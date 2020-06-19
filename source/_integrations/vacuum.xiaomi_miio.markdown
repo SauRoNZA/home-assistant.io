@@ -34,7 +34,7 @@ To add a vacuum to your installation, add the following to `configuration.yaml`:
 vacuum:
   - platform: xiaomi_miio
     host: 192.168.1.2
-    token: YOUR_TOKEN
+    token: "YOUR_TOKEN"
 ```
 
 {% configuration %}
